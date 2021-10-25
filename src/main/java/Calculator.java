@@ -1,6 +1,5 @@
 import java.time.Instant;
 
-// Calculator class
 class Calculator {
     private long seed;
 
